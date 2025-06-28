@@ -5,7 +5,7 @@
 
 This project is a **Salesforce-based CRM system** designed to streamline jewelry business operations. It helps manage **Jewel Customers, Items (Gold/Silver), Orders, Billing, Pricing**, and provides real-time insights via **Reports & Dashboards**. The system uses a combination of **custom objects**, **automation tools (Flows, Validation Rules, Triggers)**, and **UI customizations**.
 
-> 🚀 Developed as part of academic capstone by Team ID: `LTVIP2025TMID29987`.
+> 🚀 Developed by Team ID: `LTVIP2025TMID29987`.
 
 ---
 
